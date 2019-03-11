@@ -1,12 +1,15 @@
 # Compiled class file
 *.class
-.classpath
-.project
-.settings/
 
 # target and subfolder
-target
+.target
 
+# settings
+.settings/
+	
+.classpath
+.project
+	
 # Log file
 *.log
 
